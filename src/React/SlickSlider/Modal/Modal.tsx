@@ -2,7 +2,7 @@ import { useState } from 'react';
 import ModalLogic from "./ModalLogic";
 import ModalImg from "./ModalImg";
 
-const Modal = ({ id }) => {
+const Modal = ({ id }: { id: string | number }) => {
   const [isOpen, setIsOpen] = useState(false);
   const openModal = () => {
     setIsOpen(true);
