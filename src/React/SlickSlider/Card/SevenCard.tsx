@@ -1,4 +1,3 @@
-import React from "react";
 import Modal from "../Modal/Modal";
 import libertyBridge from "../Modal/CloseModal/libertyBridge-close.png";
 import Titles from "../Infomation/Titles";

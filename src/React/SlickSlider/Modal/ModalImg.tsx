@@ -1,4 +1,3 @@
-import React from "react";
 import BaseballOpen from "./OpenModal/baseball-open.png";
 import JrepOpen from "./OpenModal/jrep-open.png";
 import KikkakeOpen from "./OpenModal/kikkake-open.png";

@@ -1,4 +1,3 @@
-import React from "react";
 import Modal from "../Modal/Modal";
 import next from "../Modal/CloseModal/next-close.png";
 import Titles from "../Infomation/Titles";

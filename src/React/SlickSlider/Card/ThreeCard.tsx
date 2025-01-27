@@ -1,4 +1,3 @@
-import React from "react";
 import Modal from "../Modal/Modal";
 import kikkakeClose from "../Modal/CloseModal/kikkake-close.png";
 import Titles from "../Infomation/Titles";

@@ -1,4 +1,3 @@
-import React from "react";
 import Modal from "../Modal/Modal";
 import orangeGroupClose from "../Modal/CloseModal/orange-group.png";
 import Titles from "../Infomation/Titles";

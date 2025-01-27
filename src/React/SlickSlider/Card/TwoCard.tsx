@@ -1,4 +1,3 @@
-import React from "react";
 import Modal from "../Modal/Modal";
 import jrepClose from "../Modal/CloseModal/jrep-close.png";
 import Titles from "../Infomation/Titles";

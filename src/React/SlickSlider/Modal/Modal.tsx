@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import ModalLogic from "./ModalLogic";
 import ModalImg from "./ModalImg";
 

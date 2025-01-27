@@ -1,4 +1,3 @@
-import React from "react";
 import Modal from "../Modal/Modal";
 import vieHuit from "../Modal/CloseModal/vieHuit-close.png";
 import Titles from "../Infomation/Titles";
