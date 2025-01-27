@@ -1,4 +1,3 @@
-import React from "react";
 import Modal from "../Modal/Modal";
 import ItOneClose from "../Modal/CloseModal/lessonOne-close.png";
 import Titles from "../Infomation/Titles";

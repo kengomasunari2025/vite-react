@@ -1,4 +1,3 @@
-import React from "react";
 import Modal from "../Modal/Modal";
 import baseballClose from "../Modal/CloseModal/baseball-close.png";
 import Titles from "../Infomation/Titles";

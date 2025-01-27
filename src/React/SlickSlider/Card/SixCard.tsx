@@ -1,4 +1,3 @@
-import React from "react";
 import Modal from "../Modal/Modal";
 import webZeroichi from "../Modal/CloseModal/webZeroichi-close.png";
 import Titles from "../Infomation/Titles";
