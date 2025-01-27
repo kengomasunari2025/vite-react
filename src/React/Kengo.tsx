@@ -1,4 +1,3 @@
-import React from "react";
 import Header from "./Header/Header";
 import SlickSlider from "./SlickSlider/SlickSlider";
 import Footer from "./Footer/Footer";
