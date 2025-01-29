@@ -1,8 +1,9 @@
 {
-  "name": "20250128",
+  "name": "vite-react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://kengomasunari2025.github.io/vite-react/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
