@@ -8,9 +8,10 @@ const Links = [
   { link: "https://liberty-bridge.co.jp/librec/" },
   { link: "https://eyecarelabo.com/eyecarelabo/" },
   { link: "https://viehuit.com/" },
-  { link: "https://shop-kikkake.com/video-01/index.html" },
+  { link: "https://shop-kikkake.com/video-01/" },
   { link: "https://example.com/" },
   { link: "https://it-plus.jp/" },
   { link: "https://www.orangegroup.jp/" },
+  { link: "https://liberty-bridge.co.jp/lp/ad-001/01/" },
 ];
 export default Links;

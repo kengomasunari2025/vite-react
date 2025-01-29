@@ -17,5 +17,6 @@ const Titles = [
   { title: "ITカリキュラム 3" },
   { title: "ITカリキュラム 4" },
   { title: "ITカリキュラム 5" },
+  { title: "RIBREC LP 2" },
 ];
 export default Titles;

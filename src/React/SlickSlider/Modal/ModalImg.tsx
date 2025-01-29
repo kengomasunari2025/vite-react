@@ -16,6 +16,7 @@ import ItTwo from "./OpenModal/lessonTwo-open.png";
 import ItThree from "./OpenModal/lessonThree-open.png";
 import ItFour from "./OpenModal/lessonFour-open.png";
 import ItFive from "./OpenModal/lessonFive-open.png";
+import LibatyLp from "./OpenModal/libatyLp-open.png";
 
 const OpenImages = [
   { id: 1, open: BaseballOpen },
@@ -36,6 +37,7 @@ const OpenImages = [
   { id: 16, open: ItThree },
   { id: 17, open: ItFour },
   { id: 18, open: ItFive },
+  { id: 19, open: LibatyLp },
 ];
 
 const ModalImg = ({ id }: { id: string | number }) => {

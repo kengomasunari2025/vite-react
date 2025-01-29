@@ -16,6 +16,7 @@ import FifteenCard from "./FifteenCard";
 import SixteenCard from "./SixteenCard";
 import SeventeenCard from "./SeventeenCard";
 import EighteenCard from "./EighteenCard";
+import NineteenCard from "./NineteenCard";
 
 const Cards = [
   { card: <OneCard/> },
@@ -36,5 +37,6 @@ const Cards = [
   { card: <SixteenCard/> },
   { card: <SeventeenCard/> },
   { card: <EighteenCard/> },
+  { card: <NineteenCard/> },
 ];
 export default Cards
