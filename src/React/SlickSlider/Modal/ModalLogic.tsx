@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 
-const ModalLogic = ({ isOpen, closeModal }) => {
+const ModalLogic = ({ isOpen, closeModal }: { isOpen: boolean, closeModal: () => void }) => {
   useEffect(() => {
     const lightboxBtns = document.querySelectorAll(".lightbox-btn");
     const lightboxCloseBtns = document.querySelectorAll(".lightbox-close-btn");
@@ -24,7 +24,7 @@ const ModalLogic = ({ isOpen, closeModal }) => {
     });
 
     if (isOpen) {
-      const handleEscape = (event) => {
+      const handleEscape = (event: KeyboardEvent) => {
         if (event.key === "Escape") {
           closeModal();
         }

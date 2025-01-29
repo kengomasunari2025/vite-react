@@ -38,7 +38,7 @@ const OpenImages = [
   { id: 18, open: ItFive },
 ];
 
-const ModalImg = ({ id }) => {
+const ModalImg = ({ id }: { id: string | number }) => {
   const selectedImage = OpenImages.find((image) => image.id === id);
   return selectedImage ? (
     <img
